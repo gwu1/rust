@@ -1,1 +1,3 @@
-# rust
+# Rust
+
+Polishing my Rust
